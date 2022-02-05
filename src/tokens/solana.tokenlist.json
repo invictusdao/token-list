@@ -99828,6 +99828,20 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "LsinpBtQH68hzHqrvWw4PYbH7wMoAobQAzcvxVHwTLv",
+      "symbol": "lsIN",
+      "name": "Locked Staked Invictus",
+      "decimals": 9,
+      "logoURI": "https://user-images.githubusercontent.com/95573683/152630118-232b95be-54b5-45e5-b3ec-f7247901a347.png",
+      "tags": [
+        "decentralizedreserve",
+        "utility-token",
+        "DeFi",
+        "community-token"
+      ]
     }
   ],
   "version": {
